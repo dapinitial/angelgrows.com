@@ -23,6 +23,11 @@
     overflow: scroll;
   }
 
+  .item-details .arrow {
+    cursor: pointer;
+    flex: 0 1 10px;
+  }
+
   button {
     margin-top: auto;
   }
