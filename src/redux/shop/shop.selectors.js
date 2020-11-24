@@ -9,7 +9,6 @@ const COLLECTION_ID_MAP = {
     mens: 5
 };
 
-
 const selectShop = state => state.shop;
 
 export const selectCollections = createSelector(
